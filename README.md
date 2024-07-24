@@ -1,4 +1,4 @@
-# Stacks or pyramids
+# Heaps or pyramids
 
 ### Task Description
 
